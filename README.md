@@ -1,13 +1,13 @@
 ## Hi there!👋🏽    I'm María, full-stack developer at Redradix 👩🏽‍💻.
 
-I started in the world of programming in 2020, so I am quite a newbie here, but the unlimited possibilities this discipline offers to everyone willing to make a positive impact and the desire to contribute to the software community motivates me the most for keeping learning every day!
+I started in the world of programming in 2020. The unlimited possibilities this discipline offers to everyone willing to make a positive impact and the desire to contribute to the software community motivates me the most for keeping learning every day!
 
 <br/>
 
 <h3>👁️ My first public contributions:</h3>
   <ul>
     <li><a href="https://docs.google.com/presentation/d/1aepO3mf-eaEa6jVxqm0XWpHD19K0lSAWmC9226aEe0s/edit?usp=sharing" target="_blank" rel="noreferrer" rel="noopener">Slides of a Web Components course</a> prepared in Redradix</li>
-    <li><a href="https://www.redradix.com/insights/independencia-tests-con-react" target="_blank" rel="noreferrer" rel="noopener">Translation</a> of the article <a href="https://kentcdodds.com/blog/test-isolation-with-react" target="_blank" rel="noreferrer" rel="noopener">*Test isolation with React*</a> by Kent C. Dodds</li>
+    <li><a href="https://www.redradix.com/insights/independencia-tests-con-react" target="_blank" rel="noreferrer" rel="noopener">Translation</a> of the article <a href="https://kentcdodds.com/blog/test-isolation-with-react" target="_blank" rel="noreferrer" rel="noopener">Test isolation with React</a> by Kent C. Dodds</li>
   </ul>
 
 <br/>
